@@ -23,6 +23,10 @@ public class UsuarioService {
         return usuarioRepository.findById(id).get();
     }
 
+    public Usuario findAllByEmail(String email){
+        return usuarioRepository.findByEmail(email);
+    }
+
     public Usuario save(Usuario usuario){
         return usuarioRepository.save(usuario);
     }
