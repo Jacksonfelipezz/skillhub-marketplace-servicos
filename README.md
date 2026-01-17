@@ -30,6 +30,7 @@ O **SkillHub** é uma plataforma de marketplace de serviços desenvolvida para c
    ```bash
    git clone [https://github.com/Jacksonfelipezz/skillhub-marketplace-servicos.git](https://github.com/Jacksonfelipezz/skillhub-marketplace-servicos.git)
 
-   ## 📺 Créditos e Agradecimentos
+
+## 📺 Créditos e Agradecimentos
 
 Este projeto foi desenvolvido e aprimorado durante as transmissões ao vivo no canal **[TECH DEV BRAZIL](https://www.youtube.com/@techdevbrazil)**. 
