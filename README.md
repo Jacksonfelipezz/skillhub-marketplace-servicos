@@ -15,9 +15,9 @@ O **SkillHub** é uma plataforma de marketplace de serviços desenvolvida para c
 ### Backend
 - **Java 21**
 - **Spring Boot 3**
-- **Spring Security**
-- **JWT & Refresh Token**
-- **JPA / Hibernate**
+- **Spring Security (JWT & Refresh Token)**
+- **Spring Data JPA**
+- **PostgreSQL** (Banco de dados relacional)
 
 ### Mobile
 - **Flutter**
